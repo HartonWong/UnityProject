@@ -1,0 +1,29 @@
+Base path: D:/Game/Unity/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-4776
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=5323 outsize=6136 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5323 outsize=7273 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5323 outsize=5384 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5323 outsize=7 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3020 outsize=3818 kw=POINT ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3020 outsize=3685 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3020 outsize=7 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2862 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4908 outsize=5297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4908 outsize=4890 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4908 outsize=6 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
