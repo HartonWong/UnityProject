@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelDynamic\LiftDoorsTracking.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LevelDynamic\LiftDoorsTracking.cs" Line="9" Column="35" />
+      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="11" Column="1" />
+      <File FileName="Assets\LiftTrigger.cs" Line="71" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

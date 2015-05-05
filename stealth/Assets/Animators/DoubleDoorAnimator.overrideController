@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DoubleDoorAnimator
+  m_Controller: {fileID: 9100000, guid: a37585752424ff746bf5be7caccddd86, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 11452b22824aa6248bdad79c4c8b63ad, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 67894dbe67f929d4985daf867dcd597f, type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: 11452b22824aa6248bdad79c4c8b63ad, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: 67894dbe67f929d4985daf867dcd597f, type: 3}
