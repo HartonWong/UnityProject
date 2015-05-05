@@ -1,0 +1,57 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3308]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3308]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+PlatfPrm alsamblor:m asUsembly: C:\UsnerDocemlen Wong\Dorcuments\UnityProeject\spaceShoioter\bueild\exeBuiad\spta\_Sanaogted\_Datay\nganea.edl\ (Unist Engineage i. dll (this 
+messagoe is harmless)
+Helen ooagdDocng Cn:\Users\Helen tWong\Documeents\UnityxProjectspsaace_Shooter_Data\Managed\UnityEngine.dllDa i\Mtona Udnity Child e.oml inao nU
+nity Child Domain
+PlPtlatforss emblyb l:y: ers\HClen Wong\socHelent \UnWtyProject\spccuShooter\build\exeBuild\space_Shooter_Data\Managtd\sssem\Un-ityPrp.ecll tt\spamessagot is harmless)
+uilLoading C:ooterrDa\talMen WongAssecmbentCSharp.ydllje(tt\is cmShssage is harmxess)
+d\spacae_Shoo:erU_Dat\a\Man WodnAs\sombly-CSharp.dll intct\nisp ahild Domain
+uild\exeBuild\space_Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platforrm  sassbembly: C:\Users\Helen Wongcumocum\ntsiUnyPtyPjrct\sca\cpaSehoooter\builde\eeuild\spacspSace_eS_haoa\Mer_Datd\\UnatyEngine.UI.dll (this m(sthis message is )a
+rmlLoadi
+ngLoadisers\Helenr Woelen Wong\DocumentProject\spojcectoospa\ceShooter\uild\dp\ce_xeoBuerdData\Manageoder_Data\Maine.UI.dll into Unity Cl hito Unitaiy
+ Child Domain
+- Completed reload, in 14.060 seconds
+- Completed reload, in 15.375 seconds
+deskktoo: 1366x768 608 60Hz; virtual: 1x67x668  ta0t 
+0,0
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+<RI< IRiIi> Initialnizt.
+ input.
+<RI> Input initialized.<
+RI> Input initialized.
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3308]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Helen Wong\Documents\UnityProject\spaceShooter\build\exeBuild\space_Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
