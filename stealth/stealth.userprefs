@@ -1,10 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelDynamic\LiftDoorsTracking.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy\EnemyAI.cs">
     <Files>
-      <File FileName="Assets\Scripts\LevelDynamic\LiftDoorsTracking.cs" Line="9" Column="35" />
-      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="11" Column="1" />
-      <File FileName="Assets\LiftTrigger.cs" Line="71" Column="23" />
+      <File FileName="Assets\Scripts\Enemy\EnemyAI.cs" Line="75" Column="32" />
+      <File FileName="Assets\Scripts\AlarmSystems\LaserSwitchDeactivation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelDynamic\LiftTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelDynamic\LiftDoorsTracking.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyShooting.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
